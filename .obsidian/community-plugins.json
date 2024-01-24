@@ -1,3 +1,11 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "table-editor-obsidian",
+  "better-word-count",
+  "obsidian-dictionary-plugin",
+  "obsidian-mind-map",
+  "quick-latex",
+  "cm-editor-syntax-highlight-obsidian"
 ]
