@@ -8,26 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd2123c4d75ddcd7",
+            "id": "0ef35744af8628e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME 231/1-24-2024.md",
+                "file": "Internships Not On Handshake.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "640d2ebd643ebc05",
+            "id": "193edc754f4b7fc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ME 231/1-24-2024.md",
-                "mode": "source",
-                "source": false
+                "file": "AE 210/SP24-ME_AE 210 - Professional Topics.pdf"
+              }
+            }
+          },
+          {
+            "id": "a93e97bfbcf96d39",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Recipes/Beef Stew Recipe without Wine - The Dizzy Cook.pdf"
               }
             }
           }
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 231/1-24-2024.md",
+                "file": "AE 210/SP24-ME_AE 210 - Professional Topics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 231/1-24-2024.md",
+                "file": "AE 210/SP24-ME_AE 210 - Professional Topics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 231/1-24-2024.md"
+                "file": "AE 210/SP24-ME_AE 210 - Professional Topics.pdf"
               }
             }
           },
@@ -169,10 +177,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1ed6eaccc91d4eb",
+  "active": "193edc754f4b7fc2",
   "lastOpenFiles": [
-    "ASAP Career Stuff.md",
+    "AE 210/~$_AE210-Writing guidance_format_template.docx",
+    "ECON 201/Drawing 2024-02-06 20.17.47.excalidraw.md",
+    "Internships Not On Handshake.md",
     "ME 231/1-24-2024.md",
+    "Recipes/Beef Stew Recipe without Wine - The Dizzy Cook.pdf",
+    "Researching Accounts.md",
+    "ECON 201/attempt1.pdf",
+    "Spring24Schedule.pdf",
+    "ASAP Career Stuff.md",
     "AE 210/1-23-2024.md",
     "Excalidraw/Drawing 2024-01-24 12.32.03.excalidraw.md",
     "Excalidraw",
