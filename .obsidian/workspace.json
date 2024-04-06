@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5f750b4dd786fab1",
+        "id": "36d24767eb2fa613",
         "type": "tabs",
         "children": [
           {
-            "id": "128d2352380070e1",
+            "id": "56d2ee525858d829",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ME 231/Notes From Tablet/1-29w2d1p1.png"
+                "file": "AE 210/Project 2/Initial Planning For Project 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 231/Notes From Tablet/1-29w2d1p1.png",
+                "file": "AE 210/Project 2/Initial Planning For Project 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME 231/Notes From Tablet/1-29w2d1p1.png",
+                "file": "AE 210/Project 2/Initial Planning For Project 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME 231/Notes From Tablet/1-29w2d1p1.png"
+                "file": "AE 210/Project 2/Initial Planning For Project 2.md"
               }
             }
           },
@@ -134,9 +136,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "aff4c7d7c6725656",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -150,38 +160,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e1ed6eaccc91d4eb",
+  "active": "56d2ee525858d829",
   "lastOpenFiles": [
-    "ME 231/exam1equationSheet.png",
-    "ME 231/exam1equationSheet.kra",
-    "ME 231/Notes From Tablet/w2d1p21-29.png",
+    "MATH 231/Exam 2 Material/PNGs/w9d2catchUpP1=3-20.png",
+    "AE 210/Project 2/Initial Planning For Project 2.md",
+    "AE 210/Project 2",
+    "MATH 231/Exam 2 Material/PNGs/w9d3p1=3-22.png",
+    "MATH 231/Exam 2 Material/PNGs/w10d1p1CatchUp=3-25.png",
+    "MATH 231/Exam 2 Material/PNGs/w10d2p1=3-27.png",
+    "MATH 231/Exam 2 Material/PNGs/w9d2catchUpP1=3-20.png~",
+    "MATH 231/Exam 2 Material/w10d1p1CatchUp=3-25.kra",
+    "Exercise/Protein Drinks.md",
+    "ME 231/Appendix B-13 pg 696.pdf",
+    "ME 231/Appendix B-14 pg 697.pdf",
+    "ME 231/Exam2EqSheetFree.png",
+    "MATH 231/Exam 2 Material/Exam2EqSheetFree.kra~",
+    "MATH 231/Exam 2 Material/Exam2EqSheetFree.kra",
+    "ME 231/Exam2EqSheet1.kra~",
+    "ME 231/Exam2EqSheet1.kra",
+    "ECON 201/q11a1.pdf",
+    "ECON 201/Drawing 2024-03-26 14.45.13.excalidraw.md",
+    "Gaming/50 Cal Versus 20mm Damage.md",
+    "Gaming/Drawing 2024-03-10 11.07.07.excalidraw.md",
+    "Gaming/Germany Tier I-III.png",
+    "Gaming/Germany Tier IV-V.png",
+    "Gaming/missile_simR27R/data_plot.png",
+    "AE 210/1-23-2024.md",
+    "ME 231/1-24-2024.md",
+    "Exercise/Phone Viewable Laurel Routine.png",
+    "MATH 231/Drawing 2024-03-18 15.54.55.excalidraw.md",
+    "MATH 231/Matrices.md",
+    "Emotional Support Animal.md",
+    "Gaming/50 Cal Versus Other Calibers.png",
+    "Gaming/missile_simR-27ER/data_plot.png",
     "AE 210/Week 6 Day 1 = 2-27-2024.md",
-    "ECON 201/Quiz 7 Price controls_Welfare Spring 2024 Economics 201.pdf",
-    "AE 210/Resume Spring 2024.pdf",
-    "AE 210/mso86AE.tmp",
-    "AE 210/~$sume Spring 2024.docx",
-    "AE 210/Resume Spring 2024.docx",
-    "AE 210/Resume Spring 2022.docx",
-    "AE 210/~WRL1849.tmp",
-    "AE 210/~WRD1841.tmp",
-    "AE 210/~WRL0658.tmp",
-    "ME 231/Notes From Tablet/w3d1p1=2-5.png",
-    "ME 231/Notes From Tablet/w3d3p1=2-9.png",
-    "ME 231/Notes From Tablet/w2d3p2=2-2.png",
-    "ME 231/Notes From Tablet/w2d2p1=1-31.png",
-    "ME 231/Notes From Tablet/w4d1p1=2-12.png",
     "ECON 201/ECON 201 Vol Study Center 2-18-2024.md",
     "AE 210/Prep For Finding A Mentor Paper.md",
     "Internships Not On Handshake.md",
     "ECON 201/Drawing 2024-02-06 20.17.47.excalidraw.md",
-    "ME 231/1-24-2024.md",
     "Researching Accounts.md",
     "ASAP Career Stuff.md",
-    "AE 210/1-23-2024.md",
     "Excalidraw/Drawing 2024-01-24 12.32.03.excalidraw.md",
     "Welcome.md"
   ]

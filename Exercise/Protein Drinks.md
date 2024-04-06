@@ -1,0 +1,38 @@
+**Pre-Made** - 
+1. Stuff I've Tried - 
+	- Ripple Chocolate Protein Shake - 
+		- Too heavy/rich
+		- Protein - 20g (pea protein)
+		- Calories - 200
+		- Fat - 8g
+		- Carbs - 13g
+		- Sugar - 9g
+		- Fiber - 2g
+		- Sweetener - Cane sugar and monk fruit extract
+1. Stuff I've Not Tried - 
+	- ISO100 Clear 100% Whey Protein Isolate Drink - 
+		- Protein - 25g (whey protein)
+		- Calories - 110
+		- Fat - 0g
+		- Carbs - 0g
+		- Sugar - 0g
+		- Fiber - 0g
+		- Sweetener - Cane sugar and monk fruit extract
+	- Pure Protein Complete Protein Shake - 
+		- Protein - 30g (pea protein)
+		- Calories - 140
+		- Fat - 2g
+		- Carbs - 6g
+		- Sugar - <1g
+		- Fiber - 4g
+		- Sweetener - Sucralose
+		- Contains a lot of artificial additives 
+	- Pure Protein Shake (Frosty Chocolate) - 
+		- Protein - 35g (pea protein)
+		- Calories - 170
+		- Fat - 1g
+		- Carbs - 4g
+		- Sugar - 1g
+		- Fiber - ?g
+		- Sweetener - ?
+	- 

@@ -1,0 +1,19 @@
+# wt_ballistics_cal commit-hash: b83868e89a66f79c5fef36fcd1021c9b025eae6a 
+# Repository: https://github.com/Warthunder-Open-Source-Foundation/wt_ballistics_calc
+distance_flown = 16478.96274764449
+distance_to_missile = 25500.0
+max_v = 675.1878083422455
+max_a = 97.16004241412574
+min_a = -58.157995901043506
+timestep = 0.1
+
+[splash]
+splash = false
+at = 0.0
+
+[parameters]
+use_gravity = false
+start_velocity = 340.0
+distance_to_target = 0.0
+target_speed = 0.0
+altitude = 1000
